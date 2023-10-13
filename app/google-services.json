@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "278736074423",
+    "firebase_url": "https://cashcrunch-20997-default-rtdb.firebaseio.com",
+    "project_id": "cashcrunch-20997",
+    "storage_bucket": "cashcrunch-20997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278736074423:android:c8b4b26ac95bb9bae4bf32",
+        "android_client_info": {
+          "package_name": "com.ayush.cashcrunch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278736074423-qapi825chk8g40m59vbjf12uqe0k0h9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ayush.cashcrunch",
+            "certificate_hash": "54f1d45293653e3eee0f13d111081bacf8964e40"
+          }
+        },
+        {
+          "client_id": "278736074423-026taehfpkuhvrntt2l48v1p4a4tfh3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRLXC_aVJfrx8g7sIYb4WT1HWX4BGr8mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278736074423-026taehfpkuhvrntt2l48v1p4a4tfh3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
